@@ -6,3 +6,5 @@ branch1 - modify;
 main;
 master - modify;
 branch1 - modify - push - main;
+
+console.log('modify by localbranch1');
